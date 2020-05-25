@@ -1,0 +1,22 @@
+{
+  "name": "express-api-getting-started",
+  "version": "1.0.0",
+  "description": "Node.js API powered by Express framework and Widemesh application platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/widemeshcloud/node-express-api-getting-started.git"
+  },
+  "author": "Johan <johan@widemesh.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/widemeshcloud/node-express-api-getting-started/issues"
+  },
+  "homepage": "https://github.com/widemeshcloud/node-express-api-getting-started#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
